@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_title">#E4E6EB</color>
+    <color name="background">#000000</color>
+    <color name="input_background">#4a4a4a</color>
+    <color name="placeholder">#DDDDDD</color>
+</resources>
