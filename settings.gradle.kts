@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ThisNote"
+rootProject.name = "thisnote"
 include(":app")
  
